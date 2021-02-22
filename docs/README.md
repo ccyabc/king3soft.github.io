@@ -1,4 +1,5 @@
 ---
+sidebar: false
 home: true
 # heroImage: /hero.png
 description: 专注于移动端手游性能服务
